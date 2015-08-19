@@ -1,17 +1,17 @@
 {
-  "name": "cssgrace",
+  "name": "jone-cssgrace",
   "version": "2.0.2",
   "description": "CSS postproccessor",
   "main": "lib/index.js",
   "author": {
-    "name": "yisi",
-    "email": "yiorsi@gmail.com",
+    "name": "xuchenhui",
+    "email": "xuchenhui@live.com",
     "url": "http://iyunlu.com/view"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:cssdream/cssgrace.git"
+    "url": "git@github.com/xch89820/cssgrace.git"
   },
   "keywords": [
     "css",
